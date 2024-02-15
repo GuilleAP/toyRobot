@@ -32,11 +32,11 @@ This will run the unit tests for the ToyRobot program and display the results in
 - Use commands like `PLACE`, `MOVE`, `LEFT`, `RIGHT`, and `REPORT` to control the robot.
 
 ### Example
-- `PLACE 0,0,NORTH` (intro)
-- `MOVE` (intro)
-- `RIGHT` (intro)
-- `MOVE` (intro)
-- `REPORT` (intro)
+- `PLACE 0,0,NORTH` 
+- `MOVE` 
+- `RIGHT` 
+- `MOVE` 
+- `REPORT`
 
 (Note: Each command should be followed by pressing the Enter key)
 
